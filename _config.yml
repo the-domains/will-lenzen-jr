@@ -6,9 +6,9 @@ color:
   saturation: 0.15394230908714235
   rhythmicContrast: 0.6071414814796299
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Will Lenzen Jr
